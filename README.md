@@ -43,9 +43,9 @@ A simple and reliable backup solution for Linux and macOS systems. Create automa
 
 4. **Choose your script
 
-  For Linux: Use src/backup_linux.sh
+   For Linux: Use src/backup_linux.sh
 
-  For macOS: Use src/backup_macos.sh
+   For macOS: Use src/backup_macos.sh
 
 5. **Run it
    for linux
