@@ -16,7 +16,7 @@ jobs:
           python-version: '3.x'
           
       - name: Install dependencies
-        run: pip install mkdocs-material  # ← ДОБАВИЛ ТЕМУ!
+        run: pip install mkdocs mkdocs-material  # ← ПРАВИЛЬНО!
         
       - name: Build and deploy
-        run: mkdocs gh-deploy --force
+        run: mkdocs gh-deploy --force  # ← ПРАВИЛЬНО!
