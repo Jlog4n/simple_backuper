@@ -107,9 +107,9 @@ RU
 
 4. **Выберете свой скрипт (зависит от системы):**
 
-   For Linux: Use src/backup_linux.sh
+   Для Linux: Use src/backup_linux.sh
 
-   For macOS: Use src/backup_macos.sh
+   Для macOS: Use src/backup_macos.sh
 
 5. **Запустите скрипт**
    для Linux
